@@ -1,7 +1,7 @@
 {
     "$schema": "https://on.cypress.io/cypress.schema.json",
     "integrationFolder": "cypress/integration",
-    "baseUrl": "http://localhost:6006/?path=/story",
+    "baseUrl": "https://alchemy-storybook-uat.pontoslivelo.com.br",
     "viewportHeight": 900,
     "viewportWidth": 1200,
     "reporter": "cypress-multi-reporters",

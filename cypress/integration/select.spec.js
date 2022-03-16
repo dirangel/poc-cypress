@@ -3,7 +3,7 @@
 
 describe('Select', () => {  
   beforeEach(() => {
-      cy.visit('/components-web-atoms-select--select-base');
+      cy.visit('/?path=/story/components-web-atoms-select--select-base');
       cy.url().should('contain', 'components-web-atoms-select--select-base');
   });
   
